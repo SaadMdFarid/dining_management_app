@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049004686678",
+    "project_id": "dining-management-bf207",
+    "storage_bucket": "dining-management-bf207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049004686678:android:42fa27376ad32f24f3eaf7",
+        "android_client_info": {
+          "package_name": "com.example.dining_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049004686678-kftge8c6qrcckv74po4b0mv44sp44jrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrslnXF9GIFov9HYH8Rf99h8N3yHRdP1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049004686678-kftge8c6qrcckv74po4b0mv44sp44jrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
